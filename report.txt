@@ -1,0 +1,13 @@
+Laporan Pengujian SQL Injection
+
+URL:
+https://feb.ub.ac.id
+
+Jenis Pengujian:
+boolean
+
+Hasil Pengujian:
+[-] Tidak ditemukan kerentanan SQL Injection pada url "https://feb.ub.ac.id"
+
+Hasil Akhir:
+Tidak terdapat kemungkinan SQL Injection pada url "https://feb.ub.ac.id"

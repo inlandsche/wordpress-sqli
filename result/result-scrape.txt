@@ -1,0 +1,1 @@
+{"method": "GET", "data": "https://feb.ub.ac.id?s=", "action": "https://feb.ub.ac.id"}
